@@ -3,7 +3,6 @@ import datetime
 import mysql.connector as connector
 import pandas as pd
 import os
-import zipfile
 import csv
 
 #define variables
